@@ -60,8 +60,3 @@ Dashboard didesain secara dinamis agar pengguna dapat mengisolasi data spesifik 
 ---
 *Dokumentasi ini disusun secara otomatis merujuk pada standar portofolio Data Analytics profesional.*
 """
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(content)
-
-print("File created: README.md")
